@@ -4,7 +4,7 @@ var quotes = [
     author: 'Oscar Wilde',
   },
   {
-    content: 'A ship in harbor is safe, but that is not what ships are built for.',
+    content: 'A ship in harbor is safe, but that’s not what ships are built for.',
     author: 'John A. Shedd',
   },
   {
@@ -24,11 +24,11 @@ var quotes = [
     author: 'David Foster Wallace',
   },
   {
-    content: 'If you want something you have never had, you must be willing to do something you have never done.',
+    content: 'If you want something you’ve never had, you must be willing to do something you’ve never done.',
     author: 'Thomas Jefferson',
   },
   {
-    content: 'Life is not about who you kiss, drunk at midnight. It is about who you text nonsense to, sober from the toilet.',
+    content: 'Life’s not about who you kiss, drunk at midnight. It’s about who you text nonsense to, sober from the toilet.',
     author: 'Anon',
   },
   {
@@ -36,7 +36,7 @@ var quotes = [
     author: 'Harun Yahya',
   },
   {
-    content: 'When a person tells you that you hurt them, you do not get to decide that you did not.',
+    content: 'When a person tells you that you hurt them, you don’t get to decide that you didn’t.',
     author: 'Louis C.K',
   },
   {
@@ -44,7 +44,7 @@ var quotes = [
     author: 'Stephen McCranie',
   },
   {
-    content: 'Isn\'t it funny how day by day nothing changes but when we look back everything is different.',
+    content: 'Isn’t it funny how day by day nothing changes but when we look back everything is different.',
     author: 'C.S Lewis',
   },
   {
