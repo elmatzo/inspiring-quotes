@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC|Passion+One|Kaushan+Script|Rokkitt);
+body {
+  background-color: #eee; }
+  @media (min-width: 992px) {
+    body {
+      padding: 0 7em; } }
+  @media (min-width: 600px) {
+    body {
+      padding: 0 3em; } }
+
+@media (max-width: 599px) {
+  .header-content {
+    text-align: center; }
+    .header-content h1 {
+      margin-bottom: 5px; } }
+
+@media (min-width: 600px) {
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline; } }
+
+.header-content a {
+  text-decoration: none;
+  color: black; }
+  .header-content a h1 {
+    font-family: 'Passion One', cursive; }
+
+.header-content span {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5em; }
+
+.main-content {
+  margin-top: 7em;
+  text-align: center; }
+  @media (min-width: 600px) {
+    .main-content {
+      margin: 7em 5em; } }
+  .main-content .quote {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em; }
+  .main-content .author {
+    font-family: 'Rokkitt', serif;
+    font-size: 1.5em; }
